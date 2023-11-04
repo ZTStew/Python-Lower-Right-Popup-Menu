@@ -3,7 +3,7 @@ Program acts as module to display the provided message as a pop-up in the lower 
 
 ## Requirements:
 - &check; Success  
-- &x; Failure  
+- &cross; Failure  
 
 - [ ] Displays a window  
 - [ ] Defines window size (1/7th by 1/5th?)  
