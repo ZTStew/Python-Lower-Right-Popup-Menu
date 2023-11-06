@@ -13,6 +13,4 @@ Program acts as module to display the provided message as a pop-up in the lower 
   - [ ] Sets a timer for the pop-up to automatically disappear  
   - [ ] Styles the window  
   - [ ] Has window make use of Windows themes  
-  
-  
 - [ ] Make use of Windows Notifications?
